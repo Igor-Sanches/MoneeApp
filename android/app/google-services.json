@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "351050182575",
+    "project_id": "money-app-b3f2f",
+    "storage_bucket": "money-app-b3f2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351050182575:android:d948d7d6873637621d095a",
+        "android_client_info": {
+          "package_name": "app.money.monetization"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351050182575-b9qhqa6hfc6vu4m75785h1j85gsu2oag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCGoLjXCNnPsbhuuuRw_0Q8dBO_lwYJBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351050182575-b9qhqa6hfc6vu4m75785h1j85gsu2oag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
